@@ -47,18 +47,154 @@
       "saleEndsAt": null,
       "testimonial": null,
       "faq": null,
-      "articleTitle": "how to",
+      "articleTitle": "How to Prepare for HARTRON Junior Programmer — Expert Tips",
       "articleIntro": "how",
-      "prepTips": null,
-      "examOverview": null,
-      "marksDistribution": null,
-      "topicBreakdown": [
+      "prepTips": [
         {
-          "title": "je",
-          "points": []
+          "icon": "🎯",
+          "title": "Master Core C and C++ Concepts",
+          "text": "Practice pointer manipulation, memory allocation, and object-oriented principles thoroughly, as syntax and output questions appear frequently."
+        },
+        {
+          "icon": "🎯",
+          "title": "Strengthen Core Java and OOP Principles",
+          "text": "Focus heavily on exception handling, collections, JVM architecture, and inheritance patterns to solve direct scenario-based MCQs."
+        },
+        {
+          "icon": "🎯",
+          "title": "Prioritize SQL Queries and DBMS Concepts",
+          "text": "Revise relational algebra, normalization rules, indexing, and primary key constraints alongside practical multi-table join queries."
         }
       ],
-      "whatsInside": null
+      "examOverview": [
+        {
+          "label": "Conducted By",
+          "value": "Haryana State Electronics Development Corporation (HARTRON)"
+        },
+        {
+          "label": "Mode",
+          "value": "Online Computer-Based Test (CBT)"
+        },
+        {
+          "label": "Total Questions",
+          "value": "50 Questions"
+        },
+        {
+          "label": "Total Marks",
+          "value": "50 Marks"
+        },
+        {
+          "label": "Duration",
+          "value": "30 Minutes"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "No Negative Marking"
+        }
+      ],
+      "marksDistribution": [
+        {
+          "label": "C & C++ Programming",
+          "value": "10 Questions"
+        },
+        {
+          "label": "Java & Object-Oriented Programming",
+          "value": "10 Questions"
+        },
+        {
+          "label": "Database Management Systems (DBMS & SQL)",
+          "value": "8 Questions"
+        },
+        {
+          "label": "Web Development & Scripting (ASP.NET & PHP)",
+          "value": "8 Questions"
+        },
+        {
+          "label": "Operating Systems & System Architecture",
+          "value": "5 Questions"
+        },
+        {
+          "label": "Data Structures & Algorithms",
+          "value": "5 Questions"
+        },
+        {
+          "label": "Computer Networks & Office Automation",
+          "value": "4 Questions"
+        }
+      ],
+      "topicBreakdown": [
+        {
+          "title": "C & C++ Programming",
+          "points": [
+            "Pointers, Dynamic Memory Allocation (malloc, calloc, free)",
+            "Object-Oriented Programming (Classes, Polymorphism, Inheritance)",
+            "Functions, Scope, Storage Classes, and Preprocessors",
+            "Structs, Unions, Arrays, and String Handling"
+          ]
+        },
+        {
+          "title": "Java & Object-Oriented Programming",
+          "points": [
+            "Core Java Fundamentals and JVM/JRE Architecture",
+            "Exception Handling (try, catch, throw, throws, finally)",
+            "Multithreading, Synchronization, and Thread Lifecycle",
+            "Collections Framework, Interfaces, and Abstract Classes"
+          ]
+        },
+        {
+          "title": "Database Management Systems (DBMS & SQL)",
+          "points": [
+            "Relational Data Model and Normalization (1NF to BCNF)",
+            "DDL, DML, DCL, and Advanced SQL Join Queries",
+            "Indexing, Transactions, ACID Properties, and Concurrency Control",
+            "Primary, Foreign, Candidate Keys, and Integrity Constraints"
+          ]
+        },
+        {
+          "title": "Web Development & Scripting (ASP.NET & PHP)",
+          "points": [
+            "ASP.NET Page Life Cycle, Server Controls, and State Management",
+            "PHP Syntax, Variables, Sessions, and Form Handling",
+            "Client-Server Architecture, HTTP Methods, and REST Basics",
+            "HTML5, CSS3, and JavaScript Validation Fundamentals"
+          ]
+        },
+        {
+          "title": "Operating Systems & System Architecture",
+          "points": [
+            "Process Management, CPU Scheduling, and Deadlock Conditions",
+            "Memory Management, Paging, Segmentation, and Virtual Memory",
+            "File Systems, System Calls, and I/O Management",
+            "Basic Computer Organization and Addressing Modes"
+          ]
+        },
+        {
+          "title": "Data Structures & Algorithms",
+          "points": [
+            "Arrays, Linked Lists (Singly, Doubly, Circular)",
+            "Stacks, Queues, and Expression Evaluation (Infix/Postfix)",
+            "Trees (Binary Trees, BST) and Graph Traversals (BFS, DFS)",
+            "Sorting and Searching Algorithms with Time Complexity"
+          ]
+        },
+        {
+          "title": "Computer Networks & Office Automation",
+          "points": [
+            "OSI and TCP/IP Reference Models and Protocols",
+            "IP Addressing, Subnetting, and Network Topologies",
+            "Network Devices (Routers, Switches, Bridges, Gateways)",
+            "MS Office Tools, Shortcuts, and Fundamentals"
+          ]
+        }
+      ],
+      "whatsInside": [
+        "Complete Chapter-wise Theory Notes Covering All 13 Official Syllabus Topics",
+        "1,200+ Topic-Specific Multiple Choice Questions with Detailed Explanations",
+        "5 Full-Length Timed Mock Tests Modeled on the Latest HARTRON CBT Pattern",
+        "Dedicated Code Snippet and Output-Prediction Practice Module",
+        "Quick-Revision Cheat Sheets for SQL Queries, Syntax, and Key Formulas",
+        "Previous Years' Question Paper Analysis and High-Frequency Question Bank"
+      ]
     },
     {
       "id": "hrn-hi",
