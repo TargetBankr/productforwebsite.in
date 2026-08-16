@@ -35,6 +35,7 @@
       "badge": "🔥 New",
       "driveLink": "https://drive.google.com/drive/folders/1ww3qxl7iFB3rOg2lsyOzqSAwaRxUk6WM",
       "demoLink": "https://drive.google.com/file/d/1qI9-SraaPerAe2yRHy9s6jdWKI17-TH9/view?usp=drivesdk",
+      "previewPdf": null,
       "externalLink": null,
       "bannerUrl": "https://drive.google.com/thumbnail?id=1RRwGZE2DjVY5zgIZI5ISzH28DLEPDF8P&sz=w800",
       "categories": [
@@ -45,7 +46,19 @@
       "ratingCount": null,
       "saleEndsAt": null,
       "testimonial": null,
-      "faq": null
+      "faq": null,
+      "articleTitle": "how to",
+      "articleIntro": "how",
+      "prepTips": null,
+      "examOverview": null,
+      "marksDistribution": null,
+      "topicBreakdown": [
+        {
+          "title": "je",
+          "points": []
+        }
+      ],
+      "whatsInside": null
     },
     {
       "id": "hrn-hi",
