@@ -198,7 +198,7 @@
     },
     {
       "id": "hrn-hi",
-      "name": "हरियाणाHSSC Group D Complete Study Notes & 10+ Mocks (2026)",
+      "name": "हरियाणा HSSC Group D Complete Study Notes & 10+ Mocks (2026)",
       "icon": "📚",
       "tag": "SURE SHOT NOTES 🔥",
       "tagBg": "rgba(220,38,38,.1)",
@@ -229,7 +229,7 @@
       "badge": "🔥 New",
       "driveLink": "https://drive.google.com/drive/folders/1WC6Ya3nRtIb3e5fmSIHTJPmXxFp92m5T",
       "demoLink": "https://drive.google.com/file/d/1cKbuw_aw9elh9CcLWzvkxzArIXpfwPGj/view?usp=drivesdk",
-      "previewPdf": null,
+      "previewPdf": "https://raw.githubusercontent.com/TargetBankr/target1st-previews/main/preview-hsscgroupd.pdf",
       "externalLink": null,
       "bannerUrl": "https://drive.google.com/thumbnail?id=1Uei45EglmD2cJNg7ydAle9-r8EyWsmin&sz=w800",
       "categories": [
@@ -237,10 +237,15 @@
         "hssc"
       ],
       "featured": true,
-      "rating": null,
-      "ratingCount": null,
+      "rating": 4.8,
+      "ratingCount": "278+",
       "saleEndsAt": null,
-      "testimonial": null,
+      "testimonial": {
+        "name": "prerna",
+        "exam": "HSSC GROUP D 2026",
+        "stars": 4,
+        "text": "ये नोट्स मेरे लिए बहुत काम आए | इनसे दूर क्वेश्चन उठके आए है | थैंक्स sir"
+      },
       "faq": null,
       "articleTitle": "How to Prepare for HSSC Group D Exam — Expert Tips",
       "articleIntro": "This guide/notes provides actionable preparation strategies and subject-wise priorities to help you crack the HSSC Group D exam on your first attempt.",
