@@ -901,8 +901,8 @@
       "theme": "default",
       "badge": "EARLY LAUNCH 🔥",
       "driveLink": "https://drive.google.com/drive/folders/1gRcWlqm85IEOs-_-eIF-YsLz7oRsSFY6",
-      "demoLink": null,
-      "previewPdf": null,
+      "demoLink": "https://drive.google.com/file/d/1euDNaaPwytTNes2k_kThWM0iLPx19jAg/view?usp=drivesdk",
+      "previewPdf": "https://github.com/TargetBankr/target1st-previews/blob/main/PREVIEW_BIHAR_LIBRARIAN.pdf",
       "externalLink": null,
       "bannerUrl": "https://drive.google.com/thumbnail?id=1D9d3pNccEXP2FBT5r9003YLEbQMIbELW&sz=w1600",
       "categories": [
@@ -916,7 +916,33 @@
       "faq": null,
       "articleTitle": "How to Prepare for Bihar Librarian LET 2026 — Expert Tips",
       "articleIntro": "Follow this strategic study guide to maximize your Library Science scores and secure your spot in the upcoming Bihar Librarian vacancies.",
-      "prepTips": null,
+      "prepTips": [
+        {
+          "icon": "📚",
+          "title": "Master Classification Systems",
+          "text": "Focus heavily on DDC, UDC, and Colon Classification, as they form the core of the LIS section."
+        },
+        {
+          "icon": "📖",
+          "title": "Learn Ranganathan's Laws",
+          "text": "Memorize the Five Laws of Library Science and their modern applications in digital libraries."
+        },
+        {
+          "icon": "🗂️",
+          "title": "Understand Cataloguing Codes",
+          "text": "Prioritize AACR2, MARC 21, and RDA formats which are frequently tested in library technical processing."
+        },
+        {
+          "icon": "💻",
+          "title": "Study Library Automation",
+          "text": "Get familiar with library management software like KOHA, SOUL, and E-Granthalaya used in modern setups."
+        },
+        {
+          "icon": "🔍",
+          "title": "Practice Reference Sources",
+          "text": "Know the difference between primary, secondary, and tertiary sources, including encyclopedias and bibliographies."
+        }
+      ],
       "examOverview": [
         {
           "label": "Conducted By",
