@@ -873,6 +873,146 @@
         "ssc"
       ],
       "featured": true
+    },
+    {
+      "id": "bih-lib",
+      "name": "Bihar Librarian LET 2026 Question Bank — 1000 LIS MCQs",
+      "icon": "📄",
+      "tag": "Question Bank ",
+      "tagBg": "rgba(220,38,38,.1)",
+      "tagColor": "var(--or3)",
+      "iconBg": "rgba(220,38,38,.1)",
+      "description": "This PDF study guide is a highly targeted, 1,000-question multiple-choice bank designed specifically for the Bihar Vidyalaya Pustakalayadhyaksh (Librarian) Eligibility Test (LET). \n\nIf you are a library science aspirant preparing for the upcoming librarian vacancies, sorting through disorganized, poorly translated free materials is a waste of time. This product solves that by giving you a structured, exam-focused question bank organized strictly by micro-topics.\n\nPriced at just ₹99 (with a free PDF preview available), it strips away the fluff. There is no GK, no reasoning, and no computer awareness—just pure Library & Information Science (LIS) questions in proper, natural Devanagari Hindi. You get exactly 50 subtopics with 20 questions each, calibrated perfectly to the easy-to-moderate difficulty level expected in the BSEB-conducted state-level library exam.\n\n### 📚 Topics Covered\n* Library Science Fundamentals\n* Classification Systems (DDC, UDC, Colon Classification)\n* Cataloguing Codes and Rules (AACR2, MARC, RDA)\n* Library Types & Administration\n* Reference and Information Sources\n* Library Legislation and Organizations\n* Library Automation and ICT\n* Collection Development and Technical Processing\n\n### 🎯 Why Use This PDF Study Guide?\n* **Massive Volume:** 1,000 unique questions dedicated solely to the highest-weightage LIS section.\n* **Micro-Topic Focus:** Divided into 50 specific subtopics so you can target weak areas systematically.\n* **Language Accuracy:** Written in pure, exam-standard Hindi (Devanagari) to match the actual exam language.\n* **Easy Verification:** Answer keys are provided immediately after each 20-question section.\n* **Difficulty Calibrated:** Questions match the foundational level expected by the Bihar School Examination Board.\n* **Instant Access:** Downloadable PDF format ready for offline reading, annotation, or printing.\n* **Zero Distractions:** 100% focused on your core subject with no filler content.\n\n### 💻 Best Way to Use It\nStart by taking one 20-question subtopic as a daily mini-mock test. Complete the section, check your answers against the key provided, and review the specific LIS rules or classifications you got wrong before moving to the next topic. \n\n### 🚨 Important\nPlease note that this product provides study materials and practice questions based on the expected syllabus. Purchasing this guide does not guarantee official selection or placement in the Bihar Librarian recruitment.\n\nConsistency builds confidence—start practicing today and secure your spot!\n",
+      "shortDesc": "Master the Bihar Librarian exam with 1,000 carefully curated Library & Information Science MCQs in pure Hindi. Includes 50 subtopics and keys for just ₹99.",
+      "features": [
+        "1000 targeted multiple-choice questions",
+        "Focuses exclusively on the 100-mark LIS section",
+        "Divided into 50 distinct micro-topics",
+        "20 questions per section for easy daily pacing",
+        "Written in proper, exam-standard Hindi",
+        "Topic-wise answer keys included",
+        "Formatted for easy printing and reading",
+        "Instant PDF download access"
+      ],
+      "price": 99,
+      "originalPrice": 199,
+      "discount": "50% OFF",
+      "status": "live",
+      "theme": "default",
+      "badge": "EARLY LAUNCH 🔥",
+      "driveLink": "https://drive.google.com/drive/folders/1gRcWlqm85IEOs-_-eIF-YsLz7oRsSFY6",
+      "demoLink": null,
+      "previewPdf": null,
+      "externalLink": null,
+      "bannerUrl": "https://drive.google.com/thumbnail?id=1D9d3pNccEXP2FBT5r9003YLEbQMIbELW&sz=w1600",
+      "categories": [
+        "home"
+      ],
+      "featured": true,
+      "rating": null,
+      "ratingCount": null,
+      "saleEndsAt": null,
+      "testimonial": null,
+      "faq": null,
+      "articleTitle": "How to Prepare for Bihar Librarian LET 2026 — Expert Tips",
+      "articleIntro": "Follow this strategic study guide to maximize your Library Science scores and secure your spot in the upcoming Bihar Librarian vacancies.",
+      "prepTips": null,
+      "examOverview": [
+        {
+          "label": "Conducted By",
+          "value": "Bihar School Examination Board (BSEB)"
+        },
+        {
+          "label": "Mode",
+          "value": "Online (CBT) or OMR"
+        },
+        {
+          "label": "Total Questions",
+          "value": "150"
+        },
+        {
+          "label": "Total Marks",
+          "value": "150"
+        },
+        {
+          "label": "Duration",
+          "value": "120 Minutes (2 Hours)"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "No negative marking expected"
+        }
+      ],
+      "marksDistribution": [
+        {
+          "label": "Library and Information Science",
+          "value": "100 Marks"
+        },
+        {
+          "label": "General Knowledge and Current Affairs",
+          "value": "30 Marks"
+        },
+        {
+          "label": "Reasoning and Analytical Ability",
+          "value": "10 Marks"
+        },
+        {
+          "label": "Computer Awareness",
+          "value": "10 Marks"
+        }
+      ],
+      "topicBreakdown": [
+        {
+          "title": "Library and Information Science",
+          "points": [
+            "Foundation and Organization of Library",
+            "Library Management and Administration",
+            "Classification and Cataloguing Systems",
+            "Reference and Information Sources",
+            "Information Technology and Library Automation"
+          ]
+        },
+        {
+          "title": "General Knowledge and Current Affairs",
+          "points": [
+            "Bihar-specific GK (History, Culture, Schemes)",
+            "Indian History and Freedom Struggle",
+            "Geography of India and Bihar",
+            "Indian Constitution and Polity",
+            "Current Events and Awards"
+          ]
+        },
+        {
+          "title": "Reasoning and Analytical Ability",
+          "points": [
+            "Verbal Reasoning and Analogies",
+            "Coding-Decoding and Series",
+            "Blood Relations",
+            "Syllogisms and Venn Diagrams",
+            "Non-Verbal Reasoning (Puzzles)"
+          ]
+        },
+        {
+          "title": "Computer Awareness",
+          "points": [
+            "Basic Computer Hardware and Software",
+            "MS Office Suite (Word, Excel, PowerPoint)",
+            "Internet and Web Technologies",
+            "Operating Systems (Windows, Linux)",
+            "Cyber Security and Computer Ethics"
+          ]
+        }
+      ],
+      "whatsInside": [
+        "1000 targeted multiple-choice questions",
+        "Focuses exclusively on the 100-mark LIS section",
+        "Divided into 50 distinct micro-topics",
+        "20 questions per section for easy daily pacing",
+        "Written in proper, exam-standard Hindi",
+        "Topic-wise answer keys included",
+        "Formatted for easy printing and reading",
+        "Instant PDF download access"
+      ]
     }
   ],
   "categories": [
