@@ -423,6 +423,204 @@
       ]
     },
     {
+      "id": "hrgrpd-mocktest",
+      "name": "HSSC Group D Complete PYQs + Free Mocks 2026",
+      "icon": "📚",
+      "tag": "MOCK TEST ",
+      "tagBg": "rgba(220,38,38,.1)",
+      "tagColor": "var(--or3)",
+      "iconBg": "rgba(220,38,38,.1)",
+      "description": "This is the ultimate PDF study guide and question bank designed specifically for the HSSC Group D 2026-2027 examination.\nIf you are struggling to figure out what type of questions the Haryana Staff Selection Commission actually asks, this guide is for you. Many candidates waste time reading endless theory without practicing exam-level questions. This PDF solves that problem by giving you a direct, practice-first approach to testing your knowledge and identifying your weak spots before exam day.\nWhat makes this PDF uniquely useful is its heavy focus on maximum Previous Year Questions (PYQs). By studying the exact questions from past papers, you get a clear understanding of the exam's difficulty level and recurring patterns. Plus, with the inclusion of free full-length mock tests and a heavily discounted price of just ₹79 (down from ₹99), it is a highly affordable and proven resource already trusted by over 187 students.\n",
+      "shortDesc": "Master the HSSC Group D exam with our PDF question bank covering maximum PYQs. Includes free mock tests! Trusted by 187+ students. Get yours at just ₹79.",
+      "features": [
+        "Maximum Previous Year Questions (PYQs) covered",
+        "Free full-length mock tests included",
+        "Direct external link for instant access",
+        "Trusted and reviewed by 187+ students",
+        "Special offer price of ₹79 (Original ₹99)",
+        "Comprehensive coverage of the 2026-2027 syllabus",
+        "High-quality PDF format for mobile and PC",
+        "Ready-to-print pages for offline studying",
+        "Focused Haryana GK and Current Affairs sections",
+        "Maths, Science, and Reasoning problem sets",
+        "English and Hindi language grammar practice"
+      ],
+      "price": 0,
+      "originalPrice": 0,
+      "discount": "",
+      "status": "free",
+      "theme": "default",
+      "badge": "✨ TRENDING",
+      "driveLink": null,
+      "demoLink": null,
+      "previewPdf": null,
+      "externalLink": "prep.target1st.in/app",
+      "bannerUrl": "https://drive.google.com/thumbnail?id=1SmCXEsOpda38Va7-OjJX17aDG3YJPX-0&sz=w1600",
+      "categories": [
+        "home",
+        "hssc"
+      ],
+      "featured": true,
+      "rating": null,
+      "ratingCount": null,
+      "saleEndsAt": null,
+      "testimonial": null,
+      "faq": null,
+      "articleTitle": "How to Prepare for HSSC Group D — Expert Tips",
+      "articleIntro": "This guide will help you understand the HSSC Group D syllabus and give you targeted strategies to maximize your score in the offline written exam.",
+      "prepTips": [
+        {
+          "icon": "🌾",
+          "title": "Master Haryana GK First",
+          "text": "Focus heavily on Haryana history, geography, and culture since this section alone accounts for a massive 25% of your total exam weightage."
+        },
+        {
+          "icon": "✍️",
+          "title": "Never Leave Any Bubble Blank",
+          "text": "There is no negative marking for wrong answers, but you will lose one mark if you forget to fill the 5th option for unattempted questions."
+        },
+        {
+          "icon": "📐",
+          "title": "Practice Maths & Science Daily",
+          "text": "Dedicate time every day to simplify equations and review basic 10th-level science concepts, as they carry 30 questions combined."
+        },
+        {
+          "icon": "📖",
+          "title": "Build Strong Grammar Foundations",
+          "text": "Brush up on basic English and Hindi grammar, including antonyms, synonyms, and error spotting, which together guarantee 20 marks."
+        },
+        {
+          "icon": "⏱️",
+          "title": "Take Timed Full-Length Mocks",
+          "text": "Simulate the 105-minute offline exam environment using the free mocks provided to improve your time management and OMR bubbling speed."
+        }
+      ],
+      "examOverview": [
+        {
+          "label": "Conducted By",
+          "value": "Haryana Staff Selection Commission (HSSC)"
+        },
+        {
+          "label": "Mode",
+          "value": "Offline (OMR-based, pen and paper)"
+        },
+        {
+          "label": "Total Questions",
+          "value": "100"
+        },
+        {
+          "label": "Total Marks",
+          "value": "100 (95 for written exam + 5 for Socio-Economic criteria)"
+        },
+        {
+          "label": "Duration",
+          "value": "1 hour 45 minutes (105 minutes)"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "No negative marking for wrong answers (-1 mark if 5th option is left blank)"
+        }
+      ],
+      "marksDistribution": [
+        {
+          "label": "Haryana General Knowledge",
+          "value": "25 Questions"
+        },
+        {
+          "label": "Quantitative Ability (Maths)",
+          "value": "15 Questions"
+        },
+        {
+          "label": "General Science",
+          "value": "15 Questions"
+        },
+        {
+          "label": "General Awareness",
+          "value": "15 Questions"
+        },
+        {
+          "label": "Reasoning",
+          "value": "10 Questions"
+        },
+        {
+          "label": "English Language",
+          "value": "10 Questions"
+        },
+        {
+          "label": "Hindi Language",
+          "value": "10 Questions"
+        }
+      ],
+      "topicBreakdown": [
+        {
+          "title": "Haryana General Knowledge",
+          "points": [
+            "History and Formation of Haryana",
+            "Geography, Rivers, and Climate",
+            "Local Art, Culture, and Folk Dances",
+            "Haryana Current Affairs and Schemes"
+          ]
+        },
+        {
+          "title": "Quantitative Ability (Maths)",
+          "points": [
+            "Simplification, Decimals, and Fractions",
+            "Ratio, Proportion, and Percentage",
+            "Simple and Compound Interest",
+            "Time & Work and Time & Distance"
+          ]
+        },
+        {
+          "title": "General Science",
+          "points": [
+            "10th Level Physics (Motion, Electricity, Light)",
+            "Chemistry (Elements, Compounds, Acids)",
+            "Biology (Human Anatomy, Diseases, Plants)",
+            "Environmental Science and Ecology"
+          ]
+        },
+        {
+          "title": "General Awareness",
+          "points": [
+            "Indian History (Ancient, Medieval, Modern)",
+            "Indian Polity and Constitution",
+            "Indian Geography and Economy",
+            "Important National Events"
+          ]
+        },
+        {
+          "title": "Reasoning",
+          "points": [
+            "Number Series and Alphabet Order",
+            "Coding-Decoding and Analogy",
+            "Blood Relations and Directions",
+            "Venn Diagrams and Syllogism"
+          ]
+        },
+        {
+          "title": "English Language",
+          "points": [
+            "English Grammar and Tenses",
+            "Synonyms, Antonyms, and Vocabulary",
+            "Spot the Error and Sentence Correction",
+            "Active & Passive Voice"
+          ]
+        },
+        {
+          "title": "Hindi Language",
+          "points": [
+            "वर्ण, स्वर और व्यंजन",
+            "पर्यायवाची एवं विलोम शब्द",
+            "संधि और समास",
+            "मुहावरे और लोकोक्तियां"
+          ]
+        }
+      ],
+      "whatsInside": [
+        "VISIT WEBSITE."
+      ]
+    },
+    {
       "id": "hr-grp-d-sci-26",
       "name": "HARAYANA CET GROUP D SCIENCE BOOKLET",
       "icon": "📚",
@@ -1038,219 +1236,6 @@
         "Topic-wise answer keys included",
         "Formatted for easy printing and reading",
         "Instant PDF download access"
-      ]
-    },
-    {
-      "id": "hrgrpd-mocktest",
-      "name": "HSSC Group D Complete PYQs + Free Mocks 2026",
-      "icon": "📚",
-      "tag": "MOCK TEST ",
-      "tagBg": "rgba(220,38,38,.1)",
-      "tagColor": "var(--or3)",
-      "iconBg": "rgba(220,38,38,.1)",
-      "description": "This is the ultimate PDF study guide and question bank designed specifically for the HSSC Group D 2026-2027 examination.\nIf you are struggling to figure out what type of questions the Haryana Staff Selection Commission actually asks, this guide is for you. Many candidates waste time reading endless theory without practicing exam-level questions. This PDF solves that problem by giving you a direct, practice-first approach to testing your knowledge and identifying your weak spots before exam day.\nWhat makes this PDF uniquely useful is its heavy focus on maximum Previous Year Questions (PYQs). By studying the exact questions from past papers, you get a clear understanding of the exam's difficulty level and recurring patterns. Plus, with the inclusion of free full-length mock tests and a heavily discounted price of just ₹79 (down from ₹99), it is a highly affordable and proven resource already trusted by over 187 students.\n",
-      "shortDesc": "Master the HSSC Group D exam with our PDF question bank covering maximum PYQs. Includes free mock tests! Trusted by 187+ students. Get yours at just ₹79.",
-      "features": [],
-      "price": 0,
-      "originalPrice": 0,
-      "discount": "",
-      "status": "free",
-      "theme": "default",
-      "badge": "✨ TRENDING",
-      "driveLink": null,
-      "demoLink": null,
-      "previewPdf": null,
-      "externalLink": "prep.target1st.in/app",
-      "bannerUrl": "https://drive.google.com/thumbnail?id=1SmCXEsOpda38Va7-OjJX17aDG3YJPX-0&sz=w1600",
-      "categories": [
-        "home",
-        "hssc"
-      ],
-      "featured": true,
-      "rating": null,
-      "ratingCount": null,
-      "saleEndsAt": null,
-      "testimonial": null,
-      "faq": null,
-      "articleTitle": "How to Prepare for HSSC Group D — Expert Tips",
-      "articleIntro": "This guide will help you understand the HSSC Group D syllabus and give you targeted strategies to maximize your score in the offline written exam.",
-      "prepTips": [
-        {
-          "icon": "🎯",
-          "title": "Master Haryana GK First",
-          "text": "Focus heavily on Haryana history, geography, and culture since this section alone accounts for a massive 25% of your total exam weightage."
-        },
-        {
-          "icon": "🎯",
-          "title": "Never Leave Any Bubble Blank",
-          "text": "There is no negative marking for wrong answers, but you will lose one mark if you forget to fill the 5th option for unattempted questions."
-        },
-        {
-          "icon": "🎯",
-          "title": "Practice Maths & Science Daily",
-          "text": "Dedicate time every day to simplify equations and review basic 10th-level science concepts, as they carry 30 questions combined."
-        },
-        {
-          "icon": "🎯",
-          "title": "Build Strong Grammar Foundations",
-          "text": "Brush up on basic English and Hindi grammar, including antonyms, synonyms, and error spotting, which together guarantee 20 marks."
-        },
-        {
-          "icon": "🎯",
-          "title": "Take Timed Full-Length Mocks",
-          "text": "Simulate the 105-minute offline exam environment using the free mocks provided to improve your time management and OMR bubbling speed."
-        }
-      ],
-      "examOverview": [
-        {
-          "label": "Conducted By",
-          "value": "Haryana Staff Selection Commission (HSSC)"
-        },
-        {
-          "label": "Mode",
-          "value": "Offline (OMR-based, pen and paper)"
-        },
-        {
-          "label": "Total Questions",
-          "value": "100"
-        },
-        {
-          "label": "Total Marks",
-          "value": "100 (95 for written exam + 5 for Socio-Economic criteria)"
-        },
-        {
-          "label": "Duration",
-          "value": "1 hour 45 minutes (105 minutes)"
-        },
-        {
-          "label": "Negative Marking",
-          "value": "No negative marking for wrong answers (-1 mark if 5th option is left blank)"
-        }
-      ],
-      "marksDistribution": [
-        {
-          "label": "Haryana General Knowledge",
-          "value": "25 Questions"
-        },
-        {
-          "label": "Quantitative Ability (Maths)",
-          "value": "15 Questions"
-        },
-        {
-          "label": "General Science",
-          "value": "15 Questions"
-        },
-        {
-          "label": "General Awareness",
-          "value": "15 Questions"
-        },
-        {
-          "label": "Reasoning",
-          "value": "10 Questions"
-        },
-        {
-          "label": "English Language",
-          "value": "10 Questions"
-        },
-        {
-          "label": "Hindi Language",
-          "value": "10 Questions"
-        }
-      ],
-      "topicBreakdown": [
-        {
-          "title": "Haryana General Knowledge",
-          "points": []
-        },
-        {
-          "title": "History and Formation of Haryana",
-          "points": [
-            "Geography, Rivers, and Climate",
-            "Local Art, Culture, and Folk Dances",
-            "Haryana Current Affairs and Schemes"
-          ]
-        },
-        {
-          "title": "Quantitative Ability (Maths)",
-          "points": []
-        },
-        {
-          "title": "Simplification, Decimals, and Fractions",
-          "points": [
-            "Ratio, Proportion, and Percentage",
-            "Simple and Compound Interest",
-            "Time & Work and Time & Distance"
-          ]
-        },
-        {
-          "title": "General Science",
-          "points": []
-        },
-        {
-          "title": "10th Level Physics (Motion, Electricity, Light)",
-          "points": [
-            "Chemistry (Elements, Compounds, Acids)",
-            "Biology (Human Anatomy, Diseases, Plants)",
-            "Environmental Science and Ecology"
-          ]
-        },
-        {
-          "title": "General Awareness",
-          "points": []
-        },
-        {
-          "title": "Indian History (Ancient, Medieval, Modern)",
-          "points": []
-        },
-        {
-          "title": "Indian Polity and Constitution",
-          "points": []
-        },
-        {
-          "title": "Indian Geography and Economy",
-          "points": [
-            "Important National Events"
-          ]
-        },
-        {
-          "title": "Reasoning",
-          "points": []
-        },
-        {
-          "title": "Number Series and Alphabet Order",
-          "points": [
-            "Coding-Decoding and Analogy",
-            "Blood Relations and Directions",
-            "Venn Diagrams and Syllogism"
-          ]
-        },
-        {
-          "title": "English Language",
-          "points": []
-        },
-        {
-          "title": "English Grammar and Tenses",
-          "points": [
-            "Synonyms, Antonyms, and Vocabulary",
-            "Spot the Error and Sentence Correction",
-            "Active & Passive Voice"
-          ]
-        },
-        {
-          "title": "Hindi Language",
-          "points": []
-        },
-        {
-          "title": "वर्ण, स्वर और व्यंजन",
-          "points": [
-            "पर्यायवाची एवं विलोम शब्द",
-            "संधि और समास",
-            "मुहावरे और लोकोक्तियां"
-          ]
-        }
-      ],
-      "whatsInside": [
-        "VISIT WEBSITE."
       ]
     }
   ],
