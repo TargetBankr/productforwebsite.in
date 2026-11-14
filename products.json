@@ -32,7 +32,7 @@
       "demoLink": "https://drive.google.com/file/d/11_RDvBUWB-mfuEJRZo7uEr8BR7gWahk1/view?usp=drivesdk",
       "previewPdf": null,
       "externalLink": null,
-      "bannerUrl": "https://drive.google.com/thumbnail?id=1wwvz7Vlkb-GDSfVxgaAPWWUrwSjxpJ2f&sz=w1600",
+      "bannerUrl": "https://drive.google.com/thumbnail?id=1wwvz7Vlkb-GDSfVxgaAPWWUrwSjxpJ2f&sz=w800",
       "categories": [
         "home",
         "hartron"
@@ -203,8 +203,7 @@
       "externalLink": null,
       "bannerUrl": "https://drive.google.com/thumbnail?id=1RRwGZE2DjVY5zgIZI5ISzH28DLEPDF8P&sz=w800",
       "categories": [
-        "home",
-        "hartron"
+        "home"
       ],
       "featured": true,
       "rating": null,
