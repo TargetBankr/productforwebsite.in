@@ -1237,6 +1237,170 @@
         "Formatted for easy printing and reading",
         "Instant PDF download access"
       ]
+    },
+    {
+      "id": "hartron-deo-qb",
+      "name": "HARTRON DEO 2026 – 1500+ Computer (2 subjects) MCQ Question Bank",
+      "icon": "📚",
+      "tag": "PDF QUESTION BANK",
+      "tagBg": "rgba(220,38,38,.1)",
+      "tagColor": "var(--or3)",
+      "iconBg": "rgba(220,38,38,.1)",
+      "description": "Get comprehensive computer-based exam preparation with the HARTRON DEO 2026 Question Bank by Target1st.\nThis ebook contains 1500+ carefully curated MCQs covering essential computer subjects relevant to the HARTRON DEO examination. From Windows and Computer Fundamentals to Networking, Internet Technologies, HTML/DHTML and MS Office, every major subject is covered through practice-oriented questions.\nDesigned to help aspirants strengthen conceptual understanding, improve accuracy and become familiar with exam-level questions.\nWhether you are revising important concepts or practising for the actual examination, this question bank provides a structured way to prepare smarter.",
+      "shortDesc": "Prepare for HARTRON DEO 2026 with 1500+ exam-oriented MCQs covering Windows, Computer Fundamentals, Networking, Internet, HTML/DHTML and MS Office. Practice important concepts and strengthen your computer knowledge with targeted questions.",
+      "features": [
+        "1500+ Computer MCQs.",
+        "Full exam-oriented level questions.",
+        "Comprehensive subject-wise coverage.",
+        "Windows and Computer Fundamentals.",
+        "Networking and Internet Technologies.",
+        "HTML and DHTML concepts.",
+        "MS Office – Word, Excel and PowerPoint.",
+        "Practice-focused question bank.",
+        "Important concepts and frequently tested topics.",
+        "Designed specifically for HARTRON DEO 2026 aspirants."
+      ],
+      "price": 99,
+      "originalPrice": 149,
+      "discount": "33% OFF",
+      "status": "live",
+      "theme": "dark-red",
+      "badge": "✨ TRENDING",
+      "driveLink": null,
+      "demoLink": null,
+      "previewPdf": null,
+      "externalLink": null,
+      "bannerUrl": null,
+      "categories": [
+        "home",
+        "hartron"
+      ],
+      "featured": true,
+      "rating": null,
+      "ratingCount": null,
+      "saleEndsAt": null,
+      "testimonial": null,
+      "faq": null,
+      "articleTitle": "HARTRON DEO 2026 Preparation – 1500+ Computer MCQs Question Bank",
+      "articleIntro": "Prepare smarter for HARTRON DEO 2026 with 1500+ exam-oriented Computer MCQs covering all major computer fundamentals and application-based subjects.",
+      "prepTips": null,
+      "examOverview": [
+        {
+          "label": "Exam Name",
+          "value": "HARTRON DEO 2026 Preparation Material :: Computer MCQ Question Bank Total Questions :: 1500+ MCQs Primary Focus :: Computer Knowledge Question Level :: Full Exam-Oriented Coverage :: 6 Major Subject Areas Platform :: Target1st"
+        }
+      ],
+      "marksDistribution": [
+        {
+          "label": "Windows",
+          "value": "Comprehensive MCQ Practice Networking :: Important Networking Concepts Computer Fundamentals :: Basic to Advanced Computer Knowledge Internet :: Internet Technologies and Applications HTML/DHTML :: Web Designing Fundamentals MS Office :: Word, Excel and PowerPoint"
+        }
+      ],
+      "topicBreakdown": [
+        {
+          "title": "Windows",
+          "points": []
+        },
+        {
+          "title": "- Windows Fundamentals",
+          "points": [
+            "Windows Operating System",
+            "Windows Features and Functions",
+            "File and Folder Management",
+            "Control Panel and System Settings",
+            "Windows Tools and Utilities",
+            "Important Windows Shortcut Keys"
+          ]
+        },
+        {
+          "title": "Networking",
+          "points": []
+        },
+        {
+          "title": "- Computer Networking Fundamentals",
+          "points": [
+            "Types of Computer Networks",
+            "Network Topologies",
+            "Networking Devices",
+            "Network Protocols",
+            "LAN, MAN and WAN",
+            "IP Addressing and Network Security"
+          ]
+        },
+        {
+          "title": "Computer Fundamentals",
+          "points": []
+        },
+        {
+          "title": "- Introduction to Computers",
+          "points": [
+            "Generations of Computers",
+            "Characteristics and Applications of Computers",
+            "Input and Output Devices",
+            "Computer Hardware and Software",
+            "Computer Memory and Storage",
+            "Number Systems",
+            "Data Representation and Units"
+          ]
+        },
+        {
+          "title": "Internet",
+          "points": []
+        },
+        {
+          "title": "- Internet Fundamentals",
+          "points": [
+            "Web Browsers and Search Engines",
+            "Internet Protocols",
+            "Email and Internet Services",
+            "WWW and Web Technologies",
+            "Internet Applications",
+            "Cyber Security Fundamentals"
+          ]
+        },
+        {
+          "title": "HTML/DHTML",
+          "points": []
+        },
+        {
+          "title": "- HTML Fundamentals",
+          "points": [
+            "HTML Tags and Attributes",
+            "Text Formatting and Lists",
+            "Tables and Forms",
+            "Hyperlinks and Images",
+            "CSS Fundamentals",
+            "DHTML Concepts and Applications"
+          ]
+        },
+        {
+          "title": "MS Office",
+          "points": []
+        },
+        {
+          "title": "- MS Word",
+          "points": [
+            "Document Formatting and Editing",
+            "MS Excel",
+            "Formulas and Functions",
+            "Charts and Worksheets",
+            "MS PowerPoint",
+            "Presentations and Animations",
+            "Important Shortcut Keys"
+          ]
+        }
+      ],
+      "whatsInside": [
+        "1500+ Exam-Oriented MCQs",
+        "Six Major Computer Subject Areas",
+        "Topic-wise Question Coverage",
+        "Windows, Networking and Computer Fundamentals",
+        "Internet, HTML/DHTML and MS Office",
+        "Full Exam-Oriented Level Questions",
+        "Important Concepts and Frequently Tested Topics",
+        "HARTRON DEO 2026 Preparation Material",
+        "Practice-Focused Question Bank"
+      ]
     }
   ],
   "categories": [
@@ -1267,6 +1431,10 @@
     {
       "id": "hssc",
       "label": "📢HSSC"
+    },
+    {
+      "id": "hartron",
+      "label": "🖥️ HARTRON (COMP)"
     }
   ],
   "settings": {
